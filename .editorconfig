@@ -1,0 +1,19 @@
+# The main EditorConfig file of the project
+root = true
+
+# Set default charset
+charset = utf-8
+
+# 2 space indentation for all files
+[*]
+indent_style = space
+indent_size = 2
+
+# Unix-style newlines
+end_of_line = lf
+
+# Remove whitespace at the end of a line
+trim_trailing_whitespace = true
+
+# A newline ending every file
+insert_final_newline = true
